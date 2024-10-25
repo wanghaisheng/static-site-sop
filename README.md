@@ -5,7 +5,9 @@
 
 ## submit to google search console
 
-## ping
+## ping (deprecated)
+
+https://developers.google.com/search/blog/2023/06/sitemaps-lastmod-ping
 
 https://www.google.com/ping?sitemap=https://mysitegoeshere.com/sitemap.xml
 
